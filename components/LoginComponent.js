@@ -1,3 +1,4 @@
+// components/LoginComponent.js
 "use client"
 import { useAuth } from '../contexts/AuthContext';
 
@@ -22,4 +23,4 @@ const LoginComponent = () => {
     );
 };
 
-export default LoginComponent;
+export default LoginComponent; 
